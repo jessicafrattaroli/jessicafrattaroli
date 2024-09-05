@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on engineers, for example
 - 📫 How to reach me jfrattaroli@normandiewebschool.fr
 - 😄 Pronouns: Dynamic, curious and willing
-- ⚡ Fun fact: I hate injustice
+- ⚡ Fun fact: I like a good laugh
 
 <!---
 jessicafrattaroli/jessicafrattaroli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
